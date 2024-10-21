@@ -11,7 +11,7 @@ body {
 .containerTopo {
     width: 900px;
     height: 200px;
-    background-image: url("img/inicio.jpg");
+    background-image: url("inicio.jpg");
     margin: 20px auto; 
     display: flex;
     flex-direction: column;
